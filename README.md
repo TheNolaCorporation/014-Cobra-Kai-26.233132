@@ -1,4 +1,4 @@
-コブラ会 : Kobura-kai
+#コブラ会 : Kobura-kai
 ##[26.233132]
 ###The Balance ( バランス )
 
